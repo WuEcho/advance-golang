@@ -22,5 +22,3 @@ REST -- Resource Representational State Transfer
 更多详细可参考阅读：[REST简介](https://www.cnblogs.com/loveis715/p/4669091.html)
 
 
-/Users/wuxinyang/.ssh/id_rsa
-
