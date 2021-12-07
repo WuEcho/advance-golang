@@ -1,6 +1,6 @@
 # 什么是REST与RESTful
 
-##1.REST
+## 1.REST
 REST -- Resource Representational State Transfer
 
 - Resource:资源，即数据
