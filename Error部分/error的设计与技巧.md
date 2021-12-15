@@ -1,6 +1,6 @@
 # Error的设计与技巧
 
-
+总结与反思： 1.在日常开发过程中应对频繁的打日志没有寻找更改好的办法
 
 ## 1.Error 
 go error就是一个普通的接口，普通的值
@@ -69,6 +69,25 @@ func main() {
 
 ```
 　　这类错误可以携带更多的报错信息，**os.PathError**是此类型的示例。此种类型需要调用者使用类型断言和类型switch,还要让自定义的error变为public。
+
+### 2.3 Opaque errors
+
+　　不透明错误是一种非常灵活的错误处理策略，它要求代码和调用者之间的耦合最少。虽然外接调用者知道发生了错误，但是没有能力看到错误的内部。作为调用者，关于操作的结果，知道的只有其起作用了没有。
+
+
+```
+package net 
+
+type Error interface {
+  error
+  Timeout() bool
+  Temporary() bool
+}
+
+if nerr,ok := err.(net.Error);ok&&nerr.Temporary(){
+  // do something
+}
+```
  
 ## 3.wrap error
 
