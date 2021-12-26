@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d660143e-28e2-4fbd-8b7a-8f58e7de1392" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="/usr/local/go" />
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProjectId" id="20nbgGLR6w3eSrH7V3XiE1XnXBz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pkg/pdx-chain" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/pkg/pdx-chain" />
+      <recent name="$PROJECT_DIR$/pkg/pdx-chain/crypto" />
+      <recent name="$PROJECT_DIR$/pkg/pdx-chain/core" />
+      <recent name="$PROJECT_DIR$/pkg/pdx-chain/rlp" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="go build pdx-chain-so" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="pdx-chain-so" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <package value="pdx-chain-so" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build pdx-chain-so" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="581" y="259" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1636704063627">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="581" y="259" key="#com.intellij.fileTypes.FileTypeChooser/0.25.1440.875/1440.-620.1440.2535@0.25.1440.875" timestamp="1636704063627" />
+    <state width="1069" height="227" key="GridCell.Tab.0.bottom" timestamp="1637044221505">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1069" height="227" key="GridCell.Tab.0.bottom/0.25.1440.875/1440.-645.1440.2560@0.25.1440.875" timestamp="1637044221505" />
+    <state width="1069" height="227" key="GridCell.Tab.0.center" timestamp="1637044221503">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1069" height="227" key="GridCell.Tab.0.center/0.25.1440.875/1440.-645.1440.2560@0.25.1440.875" timestamp="1637044221503" />
+    <state width="1069" height="227" key="GridCell.Tab.0.left" timestamp="1637044221502">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1069" height="227" key="GridCell.Tab.0.left/0.25.1440.875/1440.-645.1440.2560@0.25.1440.875" timestamp="1637044221502" />
+    <state width="1069" height="227" key="GridCell.Tab.0.right" timestamp="1637044221504">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1069" height="227" key="GridCell.Tab.0.right/0.25.1440.875/1440.-645.1440.2560@0.25.1440.875" timestamp="1637044221504" />
+    <state x="422" y="208" width="597" height="490" key="find.popup" timestamp="1637030927527">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="422" y="208" width="597" height="490" key="find.popup/0.25.1440.875/1440.-620.1440.2535@0.25.1440.875" timestamp="1636697275638" />
+    <state x="422" y="208" width="597" height="490" key="find.popup/0.25.1440.875/1440.-645.1440.2560@0.25.1440.875" timestamp="1637030927527" />
+  </component>
+</project>
